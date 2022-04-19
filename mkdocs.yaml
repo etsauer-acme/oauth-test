@@ -1,0 +1,8 @@
+site_name: "oauth-test"
+site_description: "Testing an application Oauth"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
